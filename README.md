@@ -130,7 +130,7 @@ drop --editor zed
 
 ## Docs
 
-Full language reference and guides at [superciccio.github.io/drop-lang](https://superciccio.github.io/drop-lang/).
+Full language reference and guides at [andbitty.github.io/drop-lang](https://andbitty.github.io/drop-lang/).
 
 ## License
 
